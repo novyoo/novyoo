@@ -10,8 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=novyoo&theme=rose&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=novyoo&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
